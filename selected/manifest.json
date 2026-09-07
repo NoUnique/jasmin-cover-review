@@ -5,7 +5,19 @@
     "desc": "흰 배경 · 청록색 곡선 띠 · 한글 브랜드",
     "color": "매년 곡선 띠 색상을 변경하는 구성",
     "file": "selected/candidate-01-v3.png",
-    "before": "images/candidate-01.png"
+    "before": "images/candidate-01.png",
+    "history": [
+      {
+        "file": "_history/candidate-01-draft.png",
+        "title": "초안",
+        "description": "최초 디자인"
+      },
+      {
+        "file": "selected/candidate-01-v3.png",
+        "title": "수정 1 · 현재",
+        "description": "흰 배경·한글 표기·QR 안내 반영"
+      }
+    ]
   },
   {
     "number": "09",
@@ -13,14 +25,68 @@
     "desc": "한글 파이널 · 반투명 리본 · 흰 배경",
     "color": "매년 리본의 두 색상 조합을 변경하는 구성",
     "file": "selected/candidate-09-v3.png",
-    "before": "images/candidate-09.png"
+    "before": "images/candidate-09.png",
+    "history": [
+      {
+        "file": "_history/candidate-09-draft.png",
+        "title": "초안",
+        "description": "최초 디자인"
+      },
+      {
+        "file": "_history/candidate-09-before.png",
+        "title": "수정 1",
+        "description": "질감과 그래픽을 확장한 안"
+      },
+      {
+        "file": "images/candidate-09.png",
+        "title": "수정 2",
+        "description": "후보별 피드백 반영"
+      },
+      {
+        "file": "selected/candidate-09-v3.png",
+        "title": "수정 3 · 현재",
+        "description": "흰 배경·한글 표기·QR 안내 반영"
+      }
+    ]
   },
   {
     "number": "11",
     "name": "겹침 타이포그래피",
     "desc": "한글 파이널 그래픽 · 반투명 색면 · 흰 배경",
     "color": "매년 글자와 겹침 색면의 색상 조합을 변경하는 구성",
-    "file": "selected/candidate-11-v3.png",
-    "before": "images/candidate-11.png"
+    "file": "selected/candidate-11-v4.png",
+    "before": "selected/candidate-11-v3.png",
+    "history": [
+      {
+        "file": "_history/candidate-11-draft.png",
+        "title": "초안",
+        "description": "최초 디자인"
+      },
+      {
+        "file": "_history/candidate-11-before.png",
+        "title": "수정 1",
+        "description": "질감과 그래픽을 확장한 안"
+      },
+      {
+        "file": "images/candidate-11.png",
+        "title": "수정 2",
+        "description": "후보별 피드백 반영"
+      },
+      {
+        "file": "selected/candidate-11-korean-initial.png",
+        "title": "수정 3",
+        "description": "한글 전환 최초안 · 글자 형태 지적 전"
+      },
+      {
+        "file": "selected/candidate-11-v3.png",
+        "title": "수정 4",
+        "description": "한글 가독성을 강화한 안"
+      },
+      {
+        "file": "selected/candidate-11-v4.png",
+        "title": "수정 5 · 현재",
+        "description": "도형처럼 보이는 타이포그래피 복원"
+      }
+    ]
   }
 ]
