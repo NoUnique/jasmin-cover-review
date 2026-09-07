@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="210mm" height="297mm" viewBox="0 0 1054 1492">
+<title>Jazmin 2027 A4 front cover - editable vector master</title>
+<rect id="00-paper" fill="#ffffff" stroke="none" stroke-width="0" x="-16" y="-16" width="1086" height="1524"/>
+<rect id="01-vowel-axis-plane" fill="#fff4ee" stroke="none" stroke-width="0" x="305" y="-16" width="337" height="1524"/>
+<rect id="10-pa-top-rail" fill="#b0d3cd" stroke="none" stroke-width="0" x="38" y="-45" width="502" height="134"/>
+<rect id="11-pa-left-post" fill="#aed3cc" stroke="none" stroke-width="0" x="87" y="76" width="89" height="376"/>
+<rect id="12-pa-right-post" fill="#ced7b5" stroke="none" stroke-width="0" x="232" y="77" width="91" height="431"/>
+<rect id="13-pa-bottom-rail" fill="#afd2c8" stroke="none" stroke-width="0" x="8" y="408" width="370" height="100"/>
+<rect id="14-pa-bottom-overprint" fill="#c4cfac" stroke="none" stroke-width="0" x="232" y="408" width="146" height="100"/>
+<path id="15-pa-outline" fill="none" stroke="#8fc3b8" stroke-width="1.6" d="M18.000 -16.000 L18.000 63.000 L38.000 63.000"/>
+<rect id="16-pa-vowel-stem" fill="#ffc2a9" stroke="none" stroke-width="0" x="394" y="73" width="89" height="486"/>
+<rect id="17-pa-vowel-arm" fill="#ffc2a9" stroke="none" stroke-width="0" x="483" y="207" width="125" height="98"/>
+<path id="20-i-ring-quarter-1" fill="#c8d2ae" stroke="none" stroke-width="0" d="M200.000 506.000 C327.578 506.000 431.000 609.422 431.000 737.000 L320.000 737.000 C320.000 670.726 266.274 617.000 200.000 617.000 Z"/>
+<path id="20-i-ring-quarter-2" fill="#becdad" stroke="none" stroke-width="0" d="M431.000 737.000 C431.000 864.578 327.578 968.000 200.000 968.000 L200.000 857.000 C266.274 857.000 320.000 803.274 320.000 737.000 Z"/>
+<path id="20-i-ring-quarter-3" fill="#afd3cd" stroke="none" stroke-width="0" d="M200.000 968.000 C72.422 968.000 -31.000 864.578 -31.000 737.000 L80.000 737.000 C80.000 803.274 133.726 857.000 200.000 857.000 Z"/>
+<path id="20-i-ring-quarter-4" fill="#afd3cd" stroke="none" stroke-width="0" d="M-31.000 737.000 C-31.000 609.422 72.422 506.000 200.000 506.000 L200.000 617.000 C133.726 617.000 80.000 670.726 80.000 737.000 Z"/>
+<path id="24-i-contour-1" fill="none" stroke="#83bdb0" stroke-width="1.7" d="M200.000 484.000 C339.728 484.000 453.000 597.272 453.000 737.000 C453.000 876.728 339.728 990.000 200.000 990.000"/>
+<path id="24-i-contour-2" fill="none" stroke="#83bdb0" stroke-width="1.7" d="M200.000 463.000 C351.326 463.000 474.000 585.674 474.000 737.000 C474.000 888.326 351.326 1011.000 200.000 1011.000"/>
+<rect id="26-i-vowel-stem" fill="#ffc3ab" stroke="none" stroke-width="0" x="477" y="554" width="81" height="452"/>
+<rect id="27-i-pa-overlap" fill="#efad93" stroke="none" stroke-width="0" x="477" y="554" width="6" height="5"/>
+<rect id="30-neol-n-vertical" fill="#afd2c9" stroke="none" stroke-width="0" x="-18" y="972" width="131" height="302"/>
+<rect id="31-neol-n-horizontal" fill="#aed1c4" stroke="none" stroke-width="0" x="113" y="1175" width="227" height="99"/>
+<rect id="32-neol-vowel-stem" fill="#ffc3ad" stroke="none" stroke-width="0" x="413" y="974" width="102" height="302"/>
+<rect id="33-neol-vowel-arm" fill="#ffc3ad" stroke="none" stroke-width="0" x="228" y="1046" width="185" height="80"/>
+<rect id="34-neol-i-overlap" fill="#f5b499" stroke="none" stroke-width="0" x="477" y="974" width="38" height="32"/>
+<rect id="35-rieul-top" fill="#c6d0af" stroke="none" stroke-width="0" x="14" y="1295" width="526" height="81"/>
+<rect id="36-rieul-right" fill="#c5cfad" stroke="none" stroke-width="0" x="437" y="1376" width="103" height="72"/>
+<rect id="37-rieul-middle" fill="#aed0c7" stroke="none" stroke-width="0" x="-17" y="1397" width="557" height="82"/>
+<rect id="38-rieul-left" fill="#aed0c7" stroke="none" stroke-width="0" x="-17" y="1479" width="103" height="61"/>
+<rect id="39-rieul-bottom" fill="#afd3cd" stroke="none" stroke-width="0" x="-17" y="1540" width="581" height="83"/>
+<path id="40-rieul-outline" fill="none" stroke="#94c5b7" stroke-width="1.5" d="M538.000 1471.000 L568.000 1471.000 L568.000 1499.000 L596.000 1499.000 L596.000 1535.000"/>
+<path id="53-title-rule" fill="none" stroke="#142e4a" stroke-width="1.8" d="M660.000 993.000 L988.000 993.000"/>
+<path id="57-exams-rule" fill="none" stroke="#142e4a" stroke-width="1.5" d="M660.000 1275.000 L805.000 1275.000"/>
+<text id="50-year" x="990" y="104" font-family="Apple SD Gothic Neo" font-weight="700" font-size="27" fill="#102844" text-anchor="end">2027학년도</text>
+<text id="51-subject-first" x="660" y="835" font-family="Apple SD Gothic Neo" font-weight="900" font-size="88" fill="#102844" text-anchor="start">수능</text>
+<text id="52-subject-second" x="660" y="938" font-family="Apple SD Gothic Neo" font-weight="900" font-size="75" fill="#102844" text-anchor="start">스페인어Ⅰ</text>
+<text id="54-title" x="660" y="1098" font-family="Apple SD Gothic Neo" font-weight="900" font-size="49" fill="#102844" text-anchor="start">실전 모의고사</text>
+<text id="55-final" x="660" y="1170" font-family="Apple SD Gothic Neo" font-weight="900" font-size="52" fill="#87b5a3" text-anchor="start">파이널</text>
+<text id="56-exams" x="660" y="1259" font-family="Apple SD Gothic Neo" font-weight="700" font-size="33" fill="#102844" text-anchor="start">5회분</text>
+<text id="58-qr-info" x="660" y="1307" font-family="Apple SD Gothic Neo" font-weight="400" font-size="22" fill="#102844" text-anchor="start">QR 문제해설강의 포함</text>
+<text id="59-author" x="660" y="1382" font-family="Apple SD Gothic Neo" font-weight="700" font-size="34" fill="#102844" text-anchor="start">유수진</text>
+<text id="60-credit" x="762.23" y="1382" font-family="Apple SD Gothic Neo" font-weight="400" font-size="21" fill="#102844" text-anchor="start">지음</text>
+<text id="61-brand" x="660" y="1416" font-family="Apple SD Gothic Neo" font-weight="700" font-size="22" fill="#102844" text-anchor="start">쎄뇨라유 스페인어</text>
+</svg>
