@@ -51,10 +51,10 @@
   },
   {
     "number": "11",
-    "name": "겹침 타이포그래피 · 개선안",
-    "desc": "한글과 색면의 교차 · 반투명 겹침",
+    "name": "자모 조형 · 개선안",
+    "desc": "자음·모음 분리 · 색과 도형의 역할 통일",
     "color": "매년 글자와 겹침 색면의 색상 조합을 변경하는 구성",
-    "file": "selected/candidate-11-v6.png",
+    "file": "selected/candidate-11-v7.png",
     "before": "selected/candidate-11-v3.png",
     "history": [
       {
@@ -94,8 +94,13 @@
       },
       {
         "file": "selected/candidate-11-v6.png",
-        "title": "수정 7 · 현재 개선안",
+        "title": "수정 7",
         "description": "외곽선 제거 · 글자 내부를 관통하는 가로·세로·사선 색면"
+      },
+      {
+        "file": "selected/candidate-11-v7.png",
+        "title": "수정 8 · 현재 개선안",
+        "description": "자모를 원·직사각형으로 재구성 · 민트 자음과 살구 모음"
       }
     ]
   }
