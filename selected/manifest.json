@@ -51,10 +51,10 @@
   },
   {
     "number": "11",
-    "name": "겹침 타이포그래피",
-    "desc": "한글 파이널 그래픽 · 반투명 색면 · 흰 배경",
+    "name": "겹침 타이포그래피 · 선택안",
+    "desc": "정방향 한글 파이널 · 유수진 지음",
     "color": "매년 글자와 겹침 색면의 색상 조합을 변경하는 구성",
-    "file": "selected/candidate-11-v4.png",
+    "file": "selected/candidate-11-v5.png",
     "before": "selected/candidate-11-v3.png",
     "history": [
       {
@@ -84,8 +84,13 @@
       },
       {
         "file": "selected/candidate-11-v4.png",
-        "title": "수정 5 · 현재",
+        "title": "수정 5",
         "description": "도형처럼 보이는 타이포그래피 복원"
+      },
+      {
+        "file": "selected/candidate-11-v5.png",
+        "title": "수정 6 · 현재 선택안",
+        "description": "정방향 디자인 선택 · 저자명 옆에 작은 지음 추가"
       }
     ]
   }
