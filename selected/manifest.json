@@ -52,9 +52,9 @@
   {
     "number": "11",
     "name": "세로 자모 조형 · 개선안",
-    "desc": "기존 세로 배치 · 새 자모 디자인 적용",
+    "desc": "옅은 색감 · 가장자리까지 확장 · 자모 겹침",
     "color": "매년 글자와 겹침 색면의 색상 조합을 변경하는 구성",
-    "file": "selected/candidate-11-v10.png",
+    "file": "selected/candidate-11-v11.png",
     "before": "selected/candidate-11-v3.png",
     "history": [
       {
@@ -109,8 +109,13 @@
       },
       {
         "file": "selected/candidate-11-v10.png",
-        "title": "수정 10 · 현재 개선안",
+        "title": "수정 10",
         "description": "기존 세로 레이아웃 유지 · 새 자모의 형태·색·겹침 적용"
+      },
+      {
+        "file": "selected/candidate-11-v11.png",
+        "title": "수정 11 · 현재 개선안",
+        "description": "세로 배치 유지 · 옅은 민트·살구 · 확대와 가장자리 잘림 · 자모 겹침"
       }
     ]
   }
