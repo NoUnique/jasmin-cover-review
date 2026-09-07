@@ -51,10 +51,10 @@
   },
   {
     "number": "11",
-    "name": "겹침 타이포그래피 · 선택안",
-    "desc": "정방향 한글 파이널 · 유수진 지음",
+    "name": "겹침 타이포그래피 · 개선안",
+    "desc": "한글과 색면의 교차 · 반투명 겹침",
     "color": "매년 글자와 겹침 색면의 색상 조합을 변경하는 구성",
-    "file": "selected/candidate-11-v5.png",
+    "file": "selected/candidate-11-v6.png",
     "before": "selected/candidate-11-v3.png",
     "history": [
       {
@@ -89,8 +89,13 @@
       },
       {
         "file": "selected/candidate-11-v5.png",
-        "title": "수정 6 · 현재 선택안",
+        "title": "수정 6",
         "description": "정방향 디자인 선택 · 저자명 옆에 작은 지음 추가"
+      },
+      {
+        "file": "selected/candidate-11-v6.png",
+        "title": "수정 7 · 현재 개선안",
+        "description": "외곽선 제거 · 글자 내부를 관통하는 가로·세로·사선 색면"
       }
     ]
   }
