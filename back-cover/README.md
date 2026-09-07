@@ -16,3 +16,6 @@
 - https://digiprint.kr/bbs/board.php?bo_table=design_guide&wr_id=4 (사방 3mm, 펼침 계산, 책등 5mm 이하 문구 불가: 이 업체 기준)
 - https://mybook365.com/mybook/order?category=a4&confirm_use=y (뒤–책등–앞 순서)
 - https://bookpub.co.kr/bbs/content.php?co_id=make_guide (A4 초과 제작 불가: 이 업체 기준)
+
+
+수정 1: ㅍ·ㅇ·ㄴ 결합 조형 3안. 이전 시안은 history/v1에 보존. 내지 약 100페이지(양면 종이 50장)로 사용자 확인 완료. 용지·제본·실제 책등은 미확정.
