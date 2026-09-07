@@ -1,4 +1,4 @@
-# Jasmin cover review
+# Jazmin cover review
 
 스페인어 실전 모의고사 표지 후보 15종의 3단계 검토 페이지입니다.
 
