@@ -51,10 +51,10 @@
   },
   {
     "number": "11",
-    "name": "가로형 자모 조형 · 새 구성",
-    "desc": "가로형 파이널 · 제목 위계와 색 대비 재설계",
+    "name": "세로 자모 조형 · 개선안",
+    "desc": "기존 세로 배치 · 새 자모 디자인 적용",
     "color": "매년 글자와 겹침 색면의 색상 조합을 변경하는 구성",
-    "file": "selected/candidate-11-v9.png",
+    "file": "selected/candidate-11-v10.png",
     "before": "selected/candidate-11-v3.png",
     "history": [
       {
@@ -108,9 +108,9 @@
         "description": "자모 구조 유지 · 획과 원형의 반복선 및 겹침 면 복원"
       },
       {
-        "file": "selected/candidate-11-v9.png",
-        "title": "수정 10 · 현재 새 구성",
-        "description": "세로 분할 구조 재설계 · 가로형 자모와 상단 제목 · 5회분 인덱스"
+        "file": "selected/candidate-11-v10.png",
+        "title": "수정 10 · 현재 개선안",
+        "description": "기존 세로 레이아웃 유지 · 새 자모의 형태·색·겹침 적용"
       }
     ]
   }
