@@ -1,0 +1,26 @@
+[
+  {
+    "number": "01",
+    "name": "곡선 띠",
+    "desc": "흰 배경 · 청록색 곡선 띠 · 한글 브랜드",
+    "color": "매년 곡선 띠 색상을 변경하는 구성",
+    "file": "selected/candidate-01-v3.png",
+    "before": "images/candidate-01.png"
+  },
+  {
+    "number": "09",
+    "name": "리본과 명조",
+    "desc": "한글 파이널 · 반투명 리본 · 흰 배경",
+    "color": "매년 리본의 두 색상 조합을 변경하는 구성",
+    "file": "selected/candidate-09-v3.png",
+    "before": "images/candidate-09.png"
+  },
+  {
+    "number": "11",
+    "name": "겹침 타이포그래피",
+    "desc": "한글 파이널 그래픽 · 반투명 색면 · 흰 배경",
+    "color": "매년 글자와 겹침 색면의 색상 조합을 변경하는 구성",
+    "file": "selected/candidate-11-v3.png",
+    "before": "images/candidate-11.png"
+  }
+]
