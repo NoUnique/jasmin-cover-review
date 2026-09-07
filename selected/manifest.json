@@ -51,10 +51,10 @@
   },
   {
     "number": "11",
-    "name": "자모 조형 · 개선안",
-    "desc": "자음·모음 분리 · 색과 도형의 역할 통일",
+    "name": "자모와 겹침 · 개선안",
+    "desc": "분리 자모 · 반복선 · 반투명 겹침 면",
     "color": "매년 글자와 겹침 색면의 색상 조합을 변경하는 구성",
-    "file": "selected/candidate-11-v7.png",
+    "file": "selected/candidate-11-v8.png",
     "before": "selected/candidate-11-v3.png",
     "history": [
       {
@@ -99,8 +99,13 @@
       },
       {
         "file": "selected/candidate-11-v7.png",
-        "title": "수정 8 · 현재 개선안",
+        "title": "수정 8",
         "description": "자모를 원·직사각형으로 재구성 · 민트 자음과 살구 모음"
+      },
+      {
+        "file": "selected/candidate-11-v8.png",
+        "title": "수정 9 · 현재 개선안",
+        "description": "자모 구조 유지 · 획과 원형의 반복선 및 겹침 면 복원"
       }
     ]
   }
